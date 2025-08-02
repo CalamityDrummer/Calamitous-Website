@@ -130,7 +130,7 @@ a.one:hover {
 }
 
 
-/*.container {
+.container {
     position: relative;
   }
   
@@ -159,5 +159,5 @@ a.one:hover {
   
   .container:hover .middle {
     opacity: 1;
-  }/*
+  }
   
